@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'd8a642fec1754ae4808b3b614ab33fed',
+  rootNotionPageId: '9306193a3af54c77bc388b67da6d3863',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -18,7 +18,7 @@ module.exports = {
 
   // social usernames (optional)
   twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
+  github: 'LEEYOONJONG',
   linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
